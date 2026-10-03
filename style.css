@@ -1,12 +1,12 @@
 h1 {
-  font-size: 108px;
-}
-
-h2 {
   font-size: 72px;
 }
 
-body {
+h2 {
   font-size: 50px;
+}
+
+body {
+  font-size: 36px;
   font-family: "Yu Gothic", "Hiragino Kaku Gothic ProN", Arial, sans-serif;
 }
